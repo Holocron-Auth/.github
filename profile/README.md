@@ -55,10 +55,10 @@ Apps: [Link to Applications](https://holocron-auth.gjd.one/download-app)
 
 ## Contributors
 
-[Jaideep Guntupalli](https://jaideepguntupalli.com/)
-[Prakhar Bhargava](https://github.com/prakhar20394)
-[Ritvik Pendyala](https://www.pendi.works/)
-[Tejdeep Chippa](https://github.com/phoenix1881)
+- [Jaideep Guntupalli](https://jaideepguntupalli.com/)
+- [Prakhar Bhargava](https://github.com/prakhar20394)
+- [Ritvik Pendyala](https://www.pendi.works/)
+- [Tejdeep Chippa](https://github.com/phoenix1881)
 
 ## License
 
